@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "constants": "libs/constants",
+    "discovery": "libs/discovery",
+    "gateway": "apps/gateway",
+    "registry": "apps/registry",
+    "service-a": "apps/service-a",
+    "service-b": "apps/service-b",
+    "types": "libs/types"
+  }
+}
